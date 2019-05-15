@@ -15,6 +15,12 @@ export default class resume extends Component {
                 </div>
                 
             </div>
+            <div className="mission">
+                With a diverse experience in building everything from simple landing pages to 
+                complex , real-time , multi-featured applications , I'm
+                here to <span style={{color : '#005aff'}}> help startups rapidly prototype and ship high-quality web products to their customers.</span>
+                
+            </div>
         </div>
         <div className="history-container">
             <div className="project-info">
@@ -23,7 +29,7 @@ export default class resume extends Component {
             </div>
                 <div className="project">
                     <div className="project-title">
-                        Fashtag Universe<span className="tag">Freelance</span><span className="tag">React</span>
+                        Fashtag Universe<span className="tag freelance-tag">Freelance</span><span className="tag">React</span>
                     </div>
                     <div className="project-description">
                         Built an MVP in React for Fashtag , features included a drag and drop content builder
@@ -33,10 +39,13 @@ export default class resume extends Component {
                     <div>
                         Link : <a target="_blank" href="http://www.app.fashtag.info/universe">http://www.app.fashtag.info/universe</a>
                     </div>
+                    <div className="reference">
+                        Reference : nikhilesh@fashtag.info <span className="time-span">Founder , Fashtag</span>
+                    </div>
                 </div>
                 <div className="project">
                     <div className="project-title">
-                        Cofnders <span className="tag">Freelance</span> <span className="tag">Angular</span>
+                        Cofnders <span className="tag freelance-tag">Freelance</span> <span className="tag">Angular</span>
                     </div>
                     <div className="project-description">
                         Built an Angular application to connect founders with investors and talent . This project
@@ -45,14 +54,20 @@ export default class resume extends Component {
                     <div>
                         Link : <a target="_blank" href="http://app-dev.cofnders.com">http://app-dev.cofnders.com</a>
                     </div>
+                    <div className="reference">
+                        Reference : gaayathri@heartux.com <span className="time-span">Founder , Cofnders</span>
+                    </div>                    
                 </div>
                 <div className="project">
                     <div className="project-title">
-                        Matchmove <span className="tag">Freelance</span> <span className="tag">Angular</span>
+                        Matchmove <span className="tag freelance-tag">Freelance</span> <span className="tag">Angular</span>
                     </div>
                     <div className="project-description">
                         Worked on multiple Angular projects here , helped them fix critical bugs so they
                         could ship as well as added new features and API integration.
+                    </div>
+                    <div className="reference">
+                        Reference : manik@matchmove.com <span className="time-span">PM , Matchmove , Inc</span>
                     </div>
                     
                 </div>
@@ -95,10 +110,31 @@ export default class resume extends Component {
                         An Ember web application wrapped in Cordova , salesforce for pharmacy reps
                     </div>
                     
-                </div>                             
+                </div>  
+                <div className="project">
+                    <div className="project-title">
+                        Karaoke Garage<span className="tag">Android</span><span className="tag">Intern</span>
+                    </div>
+                    <div className="project-description">
+                        Built the android app version of the web product at KaraokeGarage ,
+                        a startup focussed on real-time sing-along application
+                    </div>
+                    
+                </div>                                             
             </div>
             <div className="education-info">
                 <div className="education">
+                    <div className="contact">
+                    <div style={{marginBottom : '10px'}}>
+                    <i className="twa twa-round-pushpin"></i> Bangalore , India
+                    </div>
+                        <div className="email">
+                        <i className="twa twa-email"></i> <a href="mailto:dixit.iit@gmail.com">dixit.iit@gmail.com</a> 
+                        </div>
+                        <div>
+                        <i className="twa twa-mobile-phone"></i> <a href="tel:+91-9620418303">+91 9620418303</a> 
+                        </div>
+                    </div>
                     <div className="education-title">
                     education <i className="twa twa-mortar-board"></i> 
                     </div>
@@ -107,7 +143,7 @@ export default class resume extends Component {
                         Indian Institute of Technology , Bhubaneswar
                         </div>
                         <div>
-                            Electrical Engineering department
+                            Electrical Engineering
                             <span className="time-span">
                             - 2014
                         </span>
@@ -136,19 +172,6 @@ export default class resume extends Component {
                         <li>
                             
                             <div>
-                            React Native
-                            </div>
-                            <div>
-                            <i className="twa twa-star"></i>
-                            <i className="twa twa-star"></i>
-                            <i className="twa twa-star"></i>
-                            <i className="twa twa-star"></i>
-                            
-                            </div>
-                        </li>
-                        <li>
-                            
-                            <div>
                             Angular
                             </div>
                             <div>
@@ -162,9 +185,24 @@ export default class resume extends Component {
                         <li>
                             
                             <div>
-                            Ember
+                            React Native
                             </div>
                             <div>
+                            <i className="twa twa-star"></i>
+                            <i className="twa twa-star"></i>
+                            <i className="twa twa-star"></i>
+                            <i className="twa twa-star"></i>
+                            
+                            </div>
+                        </li>
+                        
+                        <li>
+                            
+                            <div>
+                            Node JS
+                            </div>
+                            <div>
+                            <i className="twa twa-star"></i>
                             <i className="twa twa-star"></i>
                             <i className="twa twa-star"></i>
                             <i className="twa twa-star"></i>
@@ -174,10 +212,9 @@ export default class resume extends Component {
                         <li>
                             
                             <div>
-                            Node JS
+                            Ember
                             </div>
                             <div>
-                            <i className="twa twa-star"></i>
                             <i className="twa twa-star"></i>
                             <i className="twa twa-star"></i>
                             <i className="twa twa-star"></i>
