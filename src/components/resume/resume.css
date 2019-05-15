@@ -1,0 +1,163 @@
+.resume-container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.basic-info {
+    height: 150px;
+    /* background: aliceblue; */
+    display: flex;
+    align-items: center;
+}
+
+.name {
+    width: 600px;
+    height: 100px;
+    display: flex;
+
+    /* background: blueviolet; */
+}
+
+.avatar {
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    background-image: url('../../assets/images/profilepic.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-right: 30px;
+}
+
+.name-info{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.first-name {
+    /* flex:1; */
+    font-size: 40px;
+}
+
+.title {
+    font-size: 20px;
+    color: grey;
+    display: flex;
+    text-align: left;
+}
+
+.history-container {
+    display: flex;
+    /* flex-direction: row; */
+    flex-direction: row;
+    /* flex-grow: 1; */
+    flex-wrap: wrap;
+    flex: 1;
+}
+
+.education-info {
+    margin: 20px;
+    flex-basis: calc(40% - 80px);
+    /* background: #00bfff1c; */
+    color: black;
+    padding: 20px;
+    border-radius: 10px;
+    /* background-color: aquamarine; */
+}
+
+.education-title {
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+}
+.education {
+    padding: 20px;
+    background: #00bfff1c;
+    color: black;
+    /* padding: 20px; */
+    border-radius: 10px;
+}
+
+.project-info {
+    flex-grow: 2;
+    flex-shrink: 2;
+    flex-basis: calc(60% - 40px);
+    margin: 20px;
+    /* padding: 20px; */
+    /* background-color: #3d9bff36; */
+    border-radius: 10px;
+}
+
+li {
+    margin: 10px 0px;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+i{
+    font-size: 20px;
+}
+
+.project-heading {
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    color: black;
+    /* margin: 0px 0px 10px; */
+    text-align: left;
+    padding: 20px;
+    padding-left: 0px;
+}
+
+.tag {
+    padding: 5px;
+    font-size: 12px;
+    border-radius: 3px;
+    margin-left: 20px;
+    background-color: aquamarine;
+}
+
+
+.project {
+    text-align: left;
+    background-color: #00aaff08;
+    padding: 20px;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    width: 80%;
+    margin-bottom: 20px;
+    /* border-bottom: 1px solid #80808026; */
+}
+
+.project-title {
+    font-size: 25px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.project-description {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+
+.time-span {
+    font-size: 14px;
+    color: grey;
+    margin-left: 20px;
+}
+
+
+/* On screens that are 600px or less, set the background color to olive */
+@media screen and (max-width: 600px) {
+    .App {
+        padding : 20px;
+    }
+    .education-info , .project-info {
+        flex: 1 1 100%;
+    }
+  }

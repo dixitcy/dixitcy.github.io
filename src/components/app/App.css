@@ -1,0 +1,83 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  font-family: 'SF-Pro-Light';
+  position: relative;
+}
+
+@font-face {
+  font-family: 'SF-Pro-Light';
+  src: local('SF-Pro-Light'), url(../../assets/fonts/SF-Pro-Display-Light.otf) format('opentype');
+}
+
+a {
+  text-decoration: none;
+  color :#464646
+}
+
+a:hover {
+  color : blue;
+}
+
+.logo{
+  display: flex;
+  align-items: center;
+}
+
+.brand {
+  position: absolute;
+  top: 20px;
+  /* left: 20px; */
+  font-size: 1.5em;
+  display: flex;
+  display: flex;
+  z-index: 1;
+  justify-content: space-between;
+  width: calc(100vw - 59px);
+  padding: 0px 20px;
+}
+
+
+
+.App {
+  text-align: center;
+  height: calc(100vh - 100px);
+  font-family: 'SF-Pro-Light';
+  position: relative;
+  padding: 50px;
+}
+
+@font-face {
+  font-family: 'SF-Pro-Light';
+  src: local('SF-Pro-Light'), url(../../assets/fonts/SF-Pro-Display-Light.otf) format('opentype');
+}
+
+a {
+  text-decoration: none;
+  color :#464646
+}
+
+a:hover {
+  color : blue;
+}
+
+.logo{
+  display: flex;
+  align-items: center;
+}
+
+.brand {
+  position: absolute;
+  top: 20px;
+  /* left: 20px; */
+  font-size: 1.5em;
+  display: flex;
+  display: flex;
+  z-index: 1;
+  justify-content: space-between;
+  width: calc(100vw - 59px);
+  padding: 0px 20px;
+}
+
+
+
