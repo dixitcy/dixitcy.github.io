@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b056be00419fa972f957a6d89807cb1",
+    "revision": "35aca64b6b655a0246d4007a930ac438",
     "url": "/dixitcy.github.io/index.html"
   },
   {
