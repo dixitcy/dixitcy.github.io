@@ -1,17 +1,29 @@
 {
   "files": {
-    "main.css": "/dixitcy.github.io/static/css/main.496e9dab.chunk.css",
-    "main.js": "/dixitcy.github.io/static/js/main.715ca033.chunk.js",
-    "main.js.map": "/dixitcy.github.io/static/js/main.715ca033.chunk.js.map",
+    "main.css": "/dixitcy.github.io/static/css/main.6e0b2177.chunk.css",
+    "main.js": "/dixitcy.github.io/static/js/main.c6094520.chunk.js",
+    "main.js.map": "/dixitcy.github.io/static/js/main.c6094520.chunk.js.map",
     "runtime~main.js": "/dixitcy.github.io/static/js/runtime~main.3ef2cc6f.js",
     "runtime~main.js.map": "/dixitcy.github.io/static/js/runtime~main.3ef2cc6f.js.map",
-    "static/js/2.c0eb0676.chunk.js": "/dixitcy.github.io/static/js/2.c0eb0676.chunk.js",
-    "static/js/2.c0eb0676.chunk.js.map": "/dixitcy.github.io/static/js/2.c0eb0676.chunk.js.map",
+    "static/js/2.bdb0b826.chunk.js": "/dixitcy.github.io/static/js/2.bdb0b826.chunk.js",
+    "static/js/2.bdb0b826.chunk.js.map": "/dixitcy.github.io/static/js/2.bdb0b826.chunk.js.map",
     "index.html": "/dixitcy.github.io/index.html",
-    "precache-manifest.20bfcf591a035c72c8b790fb82e2b683.js": "/dixitcy.github.io/precache-manifest.20bfcf591a035c72c8b790fb82e2b683.js",
+    "precache-manifest.bbccd1fb110cd83487a960cdb8626e3e.js": "/dixitcy.github.io/precache-manifest.bbccd1fb110cd83487a960cdb8626e3e.js",
     "service-worker.js": "/dixitcy.github.io/service-worker.js",
-    "static/css/main.496e9dab.chunk.css.map": "/dixitcy.github.io/static/css/main.496e9dab.chunk.css.map",
+    "static/css/main.6e0b2177.chunk.css.map": "/dixitcy.github.io/static/css/main.6e0b2177.chunk.css.map",
     "static/media/App.css": "/dixitcy.github.io/static/media/SF-Pro-Display-Light.ac523705.otf",
-    "static/media/resume.css": "/dixitcy.github.io/static/media/avatar-dope.0c3defb0.png"
+    "static/media/resume.css": "/dixitcy.github.io/static/media/avatar-dope.0c3defb0.png",
+    "static/media/ft-1.png": "/dixitcy.github.io/static/media/ft-1.52f6ab4a.png",
+    "static/media/ft-2.png": "/dixitcy.github.io/static/media/ft-2.77841529.png",
+    "static/media/ft-3.png": "/dixitcy.github.io/static/media/ft-3.85ce4717.png",
+    "static/media/ft-4.png": "/dixitcy.github.io/static/media/ft-4.350f313d.png",
+    "static/media/ft-5.png": "/dixitcy.github.io/static/media/ft-5.3bb6e981.png",
+    "static/media/ft-6.png": "/dixitcy.github.io/static/media/ft-6.270dc687.png",
+    "static/media/ft-7.png": "/dixitcy.github.io/static/media/ft-7.c49b28f7.png",
+    "static/media/ls-1-min.png": "/dixitcy.github.io/static/media/ls-1-min.dc7bd416.png",
+    "static/media/ls-2-min.png": "/dixitcy.github.io/static/media/ls-2-min.15889330.png",
+    "static/media/ls-3-min.png": "/dixitcy.github.io/static/media/ls-3-min.f3db1b30.png",
+    "static/media/ls-4-min.png": "/dixitcy.github.io/static/media/ls-4-min.ddd65846.png",
+    "static/media/ls-5-min.png": "/dixitcy.github.io/static/media/ls-5-min.f899c427.png"
   }
 }
