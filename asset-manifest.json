@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dixitcy.github.io/static/css/main.742460dc.chunk.css",
+    "main.css": "/dixitcy.github.io/static/css/main.496e9dab.chunk.css",
     "main.js": "/dixitcy.github.io/static/js/main.715ca033.chunk.js",
     "main.js.map": "/dixitcy.github.io/static/js/main.715ca033.chunk.js.map",
     "runtime~main.js": "/dixitcy.github.io/static/js/runtime~main.3ef2cc6f.js",
@@ -8,9 +8,9 @@
     "static/js/2.c0eb0676.chunk.js": "/dixitcy.github.io/static/js/2.c0eb0676.chunk.js",
     "static/js/2.c0eb0676.chunk.js.map": "/dixitcy.github.io/static/js/2.c0eb0676.chunk.js.map",
     "index.html": "/dixitcy.github.io/index.html",
-    "precache-manifest.c1f52f7c56be7440a0be5258e0cd8c87.js": "/dixitcy.github.io/precache-manifest.c1f52f7c56be7440a0be5258e0cd8c87.js",
+    "precache-manifest.20bfcf591a035c72c8b790fb82e2b683.js": "/dixitcy.github.io/precache-manifest.20bfcf591a035c72c8b790fb82e2b683.js",
     "service-worker.js": "/dixitcy.github.io/service-worker.js",
-    "static/css/main.742460dc.chunk.css.map": "/dixitcy.github.io/static/css/main.742460dc.chunk.css.map",
+    "static/css/main.496e9dab.chunk.css.map": "/dixitcy.github.io/static/css/main.496e9dab.chunk.css.map",
     "static/media/App.css": "/dixitcy.github.io/static/media/SF-Pro-Display-Light.ac523705.otf",
     "static/media/resume.css": "/dixitcy.github.io/static/media/avatar-dope.0c3defb0.png"
   }

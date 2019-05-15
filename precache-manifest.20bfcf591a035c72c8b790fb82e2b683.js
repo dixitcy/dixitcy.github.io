@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ee2cd86e9c16281909daa2c86e6331e",
+    "revision": "94a6eb3c2b9dc69a6f0c44034d44563b",
     "url": "/dixitcy.github.io/index.html"
   },
   {
-    "revision": "880fca0eeb18fa053444",
-    "url": "/dixitcy.github.io/static/css/main.742460dc.chunk.css"
+    "revision": "6d4b9f8eebc26aa7fe77",
+    "url": "/dixitcy.github.io/static/css/main.496e9dab.chunk.css"
   },
   {
     "revision": "0e288872990ca9e8eeab",
     "url": "/dixitcy.github.io/static/js/2.c0eb0676.chunk.js"
   },
   {
-    "revision": "880fca0eeb18fa053444",
+    "revision": "6d4b9f8eebc26aa7fe77",
     "url": "/dixitcy.github.io/static/js/main.715ca033.chunk.js"
   },
   {
