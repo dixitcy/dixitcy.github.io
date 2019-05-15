@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dixitcy.github.io/precache-manifest.c3df416cb81515d588257a0343ca2a6b.js"
+  "/dixitcy.github.io/precache-manifest.dab199d4aa70d87f4cc3add66f822d02.js"
 );
 
 self.addEventListener('message', (event) => {
