@@ -2,7 +2,7 @@
   "name": "dixit-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dixitcy.github.io",
+  "homepage": "https://github.com/dixitcy/dixitcy.github.io.git",
   "dependencies": {
     "@material-ui/core": "^3.9.3",
     "@reach/router": "^1.2.1",
