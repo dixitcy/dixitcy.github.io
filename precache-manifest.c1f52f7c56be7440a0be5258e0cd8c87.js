@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "35aca64b6b655a0246d4007a930ac438",
+    "revision": "3ee2cd86e9c16281909daa2c86e6331e",
     "url": "/dixitcy.github.io/index.html"
   },
   {
-    "revision": "c2533cb6a332d4015631",
-    "url": "/dixitcy.github.io/static/css/main.35a1d5fd.chunk.css"
+    "revision": "880fca0eeb18fa053444",
+    "url": "/dixitcy.github.io/static/css/main.742460dc.chunk.css"
   },
   {
     "revision": "0e288872990ca9e8eeab",
     "url": "/dixitcy.github.io/static/js/2.c0eb0676.chunk.js"
   },
   {
-    "revision": "c2533cb6a332d4015631",
+    "revision": "880fca0eeb18fa053444",
     "url": "/dixitcy.github.io/static/js/main.715ca033.chunk.js"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dixitcy.github.io/static/media/SF-Pro-Display-Light.ac523705.otf"
   },
   {
-    "revision": "fa0b18d211e49491fb21f12c21aedd17",
-    "url": "/dixitcy.github.io/static/media/profilepic.fa0b18d2.png"
+    "revision": "0c3defb09fef326081e15ca5071ae03e",
+    "url": "/dixitcy.github.io/static/media/avatar-dope.0c3defb0.png"
   }
 ]);
